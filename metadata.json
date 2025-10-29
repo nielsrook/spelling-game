@@ -1,0 +1,5 @@
+{
+  "name": "WerkwoordSpel",
+  "description": "Een interactief spel voor mbo-studenten om hun vaardigheden in de Nederlandse werkwoordspelling te oefenen en te toetsen. Genereert oefeningen met behulp van AI voor een eindeloze variatie.",
+  "requestFramePermissions": []
+}
